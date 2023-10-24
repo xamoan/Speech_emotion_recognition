@@ -1,1 +1,0 @@
-# Speech_emotion_recognition
